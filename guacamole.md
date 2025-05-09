@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
 *avacoda
-*lemons
+*lime
 *cilantro
 ## Instructions
  
